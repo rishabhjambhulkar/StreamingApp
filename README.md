@@ -186,13 +186,4 @@ http://localhost:5000
 4. **Deleting Overlays**
    - Send a `DELETE` request to `/api/delete` with the overlay ID in the request body to remove an overlay.
 
-### Conclusion
 
-This documentation provides the necessary information to set up and interact with the Streaming App. If you encounter any issues, please refer to the codebase for additional details.
-```
-
-### Instructions for Use:
-- Replace `<repository-url>` and `<repository-directory>` with your actual repository URL and directory name.
-- Ensure that you format the markdown correctly when creating the file in your project. 
-
-Feel free to modify any sections as per your specific requirements or additional features you may have implemented!
