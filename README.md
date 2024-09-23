@@ -1,4 +1,3 @@
-Here’s a sample `README.md` file that includes both API documentation and user documentation for your application.
 
 ```markdown
 # Streaming App
