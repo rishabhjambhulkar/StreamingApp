@@ -185,4 +185,11 @@ http://localhost:5000
 4. **Deleting Overlays**
    - Send a `DELETE` request to `/api/delete` with the overlay ID in the request body to remove an overlay.
 
+Installing Client
+
+ ```bash
+   cd client 
+   npm i
+   npm start
+   ```
 
